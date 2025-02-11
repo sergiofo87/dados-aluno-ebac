@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Sergio
+-Profissão: Almoxarife (Futuro Analista de Qualidade de Software)
+-Cidade: Santa Cruz do Rio Pardo
+-O que faz nas horas vaga: Curtir com a família, jogar Video-games, andar de motocicleta
+-Feedback sobre o curso Qualidade de Software: Estou adorando a experiência, professores explicam de maneira clara e dinâmica.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma de manuseio fácil e intuitivo.
 
 Obrigado!!!
 
